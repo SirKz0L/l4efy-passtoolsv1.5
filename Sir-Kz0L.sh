@@ -68,7 +68,7 @@ echo ""
 
 echo -e $LightRed"[x]><x>x<x>x<x>x<x>x<x>x<x>x<x>x<x>x<x>x<x>x<x>x<x>x<x>x<x>x<x>x<x>x<x>x<x><[+]"
 echo -e $LightRed"|*	                                                                     *|" | lolcat
-echo -e $LightRed"|*	Tittle        : This PassTools v.1.0 :v                              *|" | lolcat
+echo -e $LightRed"|*	Tittle        : This PassTools v.1.5 :v                              *|" | lolcat
 echo -e $LightRed"|*	My Nick       : ..:: Sir.Kz0L ::..                                   *|" | lolcat
 echo -e $LightRed"|*	My Group WA   : http://chat.whatsapp.com/AJo4bj218Z4EPyF5OxUQFq      *|" | lolcat
 echo -e $LightRed"|*	Facebook      : https://www.facebook.com/Sir.Kz0L                    *|" | lolcat
