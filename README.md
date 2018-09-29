@@ -7,7 +7,7 @@
 
  how to install
  $get install git
- $git clone https://github.com/SirKz0L/l4efy.git
+ $git clone https://github.com/SirKz0L/l4efy-passtoolsv2.git
  cd SirKz0L
  chmod 777 l4efy
  ./l4efy
