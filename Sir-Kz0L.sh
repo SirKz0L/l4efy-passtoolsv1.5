@@ -56,11 +56,11 @@ echo -e $LightMagenta"     $blink                                               
 echo -e $LightMagenta"     $blink        ______  __  ______          __   ___          ____ |  |  "
 echo -e $LightMagenta"     $blink       |   ___||  ||   _  |        |  | /  /  _____  | __ ||  |  "
 echo -e $LightMagenta"     $blink       |  |___ |  ||  |_| |        |  |/  /  |___  | ||  |||  |  "
-echo -e $white       "     $blink       |___   ||  ||   ___|        |      \    /  /  ||  |||  |  "
-echo -e $white       "     $blink        ___|  ||  ||  |\  \    _   |  |\   \  /  /__ ||__|||  |  "
-echo -e $white       "     $blink       |______||__||__| \__\  |_|  |__| \___\|______||____||  |  "
-echo -e $white       "     $blink        ___________________________________________________|  |  "
-echo -e $white       "     $blink       |______________________________________________________|  "
+echo -e $white       "     $blink      |___   ||  ||   ___|        |      \    /  /  ||  |||  |  "
+echo -e $white       "     $blink       ___|  ||  ||  |\  \    _   |  |\   \  /  /__ ||__|||  |  "
+echo -e $white       "     $blink      |______||__||__| \__\  |_|  |__| \___\|______||____||  |  "
+echo -e $white       "     $blink       ___________________________________________________|  |  "
+echo -e $white       "     $blink      |______________________________________________________|  "
 echo ""
 echo ""
 
@@ -68,7 +68,7 @@ echo ""
 
 echo -e $LightRed"[x]><x>x<x>x<x>x<x>x<x>x<x>x<x>x<x>x<x>x<x>x<x>x<x>x<x>x<x>x<x>x<x>x<x>x<x><[+]"
 echo -e $LightRed"|*	                                                                     *|" | lolcat
-echo -e $LightRed"|*	Tittle        : This PassTools v.1.5 :v                              *|" | lolcat
+echo -e $LightRed"|*	Tittle        : This PassTools v.1.0 :v                              *|" | lolcat
 echo -e $LightRed"|*	My Nick       : ..:: Sir.Kz0L ::..                                   *|" | lolcat
 echo -e $LightRed"|*	My Group WA   : http://chat.whatsapp.com/AJo4bj218Z4EPyF5OxUQFq      *|" | lolcat
 echo -e $LightRed"|*	Facebook      : https://www.facebook.com/Sir.Kz0L                    *|" | lolcat
@@ -614,6 +614,7 @@ fi
 	if [ $in = 88 ] || [ $in = 88 ]
 then
 clear
+sleep $'2'
 echo  $LightRed"SEMOGA TOOLS INI DAPAT MEMBANTU ANDA :) "         |lolcat
 echo ""
 echo  $LightRed"Thanks for clone or using My TOOLS :v"            |lolcat
