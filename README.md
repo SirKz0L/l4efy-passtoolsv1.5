@@ -1,4 +1,4 @@
-# This PassTools v.1.0 :v
+# This PassTools v1.5 :v
 # CODED : ..:: Sir.Kz0L ::.. a.K.a L4EFY
 
 # Reedit?? Recode??
