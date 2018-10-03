@@ -1,5 +1,5 @@
-#!/system/usr/xbin/bash
-#!/system/usr/xbin/botbrew
+#!/bin/bash
+#!/system/usr/bin/botbrew
 
 #color
 Lightcyan='\e[96m'
