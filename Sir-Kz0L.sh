@@ -1,5 +1,4 @@
-#!system/usr/xbin/bash
-
+#!/bin/bash
 
 	 clear
 	 
